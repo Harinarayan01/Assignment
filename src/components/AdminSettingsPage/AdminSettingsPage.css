@@ -1,0 +1,17 @@
+nav {
+    background-color: #f8f9fa;
+  }
+  
+  nav ul {
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin: 10px 0;
+  }
+  
+  form .btn-success {
+    background-color: #00a0ae;
+    border-color: #007a8c;
+  }
+  
